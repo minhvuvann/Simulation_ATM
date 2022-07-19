@@ -1,3 +1,3 @@
 # Simulation_ATM
-mô phỏng máy ATM codejava and view Swing MVC
+mô phỏng máy ATM code java and view Swing MVC
 
